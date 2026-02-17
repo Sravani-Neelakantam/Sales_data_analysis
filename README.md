@@ -44,11 +44,11 @@ The dataset contains transactional retail data including:
 
 ## Insight
 
-**👉 I've observed that the overall profit margin is around -5.22, its being considered as negative profit.
+👉 I've observed that the overall profit margin is around -5.22, its being considered as negative profit.
 👉 Discounts above 30% were strongly correlated with negative profit, suggesting the company should reconsider its discount strategy.
 👉 when compared the sales and profit in all regions Central region has hhigh sales but west region got highest profit and south got less sales negative profit, company shoul focus to improve more in south region 
 👉 Some products generated high revenue but resulted in losses due to excessive discounts.
-👉 The most valuable customers are making great sales but because of discounts they are generating negative profit company should change the discount offers according to the profit margin.**
+👉 The most valuable customers are making great sales but because of discounts they are generating negative profit company should change the discount offers according to the profit margin.
 ---
 
 ## Tools Used
